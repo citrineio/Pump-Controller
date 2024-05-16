@@ -1,0 +1,8 @@
+- Silk Screen (Legend)
+- Solder Paste
+- Solder Mask
+- Copper Layers
+- Outline
+- Drills (PTH and NPTH)
+- Drills Map
+- Fabrication Drawing in PDF(Board, dimensions, stackup, fab notes)

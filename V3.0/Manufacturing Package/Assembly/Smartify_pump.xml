@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\kadhe\OneDrive\Desktop\Electronics Work\Electronics Design\Work\Smartify_pump\Smartify_pump\Smartify_pump.kicad_sch</source>
+    <date>9/17/2023 8:39:35 PM</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>SMARTIFY PUMP</title>
+        <company/>
+        <rev>1</rev>
+        <date>2023-08-19</date>
+        <source>Smartify_pump.kicad_sch</source>
+        <comment number="1" value="BY: KADHEM ALABDULMUHSIN"/>
+        <comment number="2" value="KM ACADEMY"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>parts:CAPC1608X90N_SAMSUNG</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">CL10B105KO8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="CL10B105KO8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1be9db69-914e-4f90-a704-1b3f83e5e063</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>parts:CAPC1608X90N_SAMSUNG</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">CL10B105KO8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="CL10B105KO8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05a56606-0c0b-4c33-b87e-2a0474387e04</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>parts:CAPC1608X90N_SAMSUNG</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">CL10B105KO8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="CL10B105KO8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8d59de5-7026-406d-b057-d0b973646f8d</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1u</value>
+      <footprint>parts:CAPC1608X90N_SAMSUNG</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">CL10B105KO8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="CL10B105KO8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1d97af6-675e-45ab-8bf8-05d409225039</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>6P</value>
+      <footprint>parts:CAPC1608X90N_SAMSUNG</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">CL10C060DB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="CL10C060DB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a8eaeb2-b420-40de-9cae-d3ce55eb8edd</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>6P</value>
+      <footprint>parts:CAPC1608X90N_SAMSUNG</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">CL10C060DB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="CL10C060DB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4868e45-8d65-47b6-9317-1f7b17693488</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4007FL</value>
+      <footprint>parts:CR_SOD-123FL_SME</footprint>
+      <fields>
+        <field name="Manufacturer">SMC Diode Solutions</field>
+        <field name="Part Number">1N4007FL</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="SMC Diode Solutions"/>
+      <property name="Part Number" value="1N4007FL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e42fb7b-72b3-436a-967a-14e42e7cebb0</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51839024-9316-4128-a867-ebed86c07bf3</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd173337-f642-49c7-af72-5fdb8cf0ba90</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>TB002-500-03BE</value>
+      <footprint>CUI_TB002-500-03BE</footprint>
+      <fields>
+        <field name="Description">2~24 Poles, Screw Type, Horizontal, 5.0 Pitch, 22~12 (AWG), Terminal Block Connector</field>
+        <field name="MANUFACTURER">CUI</field>
+        <field name="MF">CUI Devices</field>
+        <field name="MP">TB002-500-03BE</field>
+        <field name="Manufacturer">CUI Devices</field>
+        <field name="Part Number">TB002-500-03BE</field>
+      </fields>
+      <libsource lib="PARTS" part="TB002-500-03BE" description="2~24 Poles, Screw Type, Horizontal, 5.0 Pitch, 22~12 (AWG), Terminal Block Connector"/>
+      <property name="MF" value="CUI Devices"/>
+      <property name="MP" value="TB002-500-03BE"/>
+      <property name="Description" value="2~24 Poles, Screw Type, Horizontal, 5.0 Pitch, 22~12 (AWG), Terminal Block Connector"/>
+      <property name="MANUFACTURER" value="CUI"/>
+      <property name="Manufacturer" value="CUI Devices"/>
+      <property name="Part Number" value="TB002-500-03BE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="2~24 Poles, Screw Type, Horizontal, 5.0 Pitch, 22~12 (AWG), Terminal Block Connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8d458ba-a12e-4bdc-aba0-9ec75131d365</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x14</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Manufacturer">Sullins Connector Solutions</field>
+        <field name="Part Number">PPTC141LFBN-RC</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Sullins Connector Solutions"/>
+      <property name="Part Number" value="PPTC141LFBN-RC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21c686ed-f85d-41c1-9188-cd171507f9d1</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>G5LE-14 DC5</value>
+      <footprint>Relay_THT:Relay_SPDT_Omron-G5LE-1</footprint>
+      <datasheet>http://www.omron.com/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">OMRON</field>
+        <field name="Part Number">G5LE-14 DC5</field>
+      </fields>
+      <libsource lib="Relay" part="G5LE-1" description="Omron G5LE relay, Miniature Single Pole, SPDT, 10A"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="OMRON"/>
+      <property name="Part Number" value="G5LE-14 DC5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Omron G5LE relay, Miniature Single Pole, SPDT, 10A"/>
+      <property name="ki_keywords" value="Miniature Single Pole Relay"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aaaef99-baa6-4a2c-9842-149fbda628c2</tstamps>
+    </comp>
+    <comp ref="PS101">
+      <value>HLK-PM01</value>
+      <footprint>Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx</footprint>
+      <datasheet>http://www.hlktech.net/product_detail.php?ProId=54</datasheet>
+      <fields>
+        <field name="Manufacturer">HI-LINK</field>
+        <field name="Part Number">HLK-PM01</field>
+      </fields>
+      <libsource lib="Converter_ACDC" part="HLK-PM01" description="Compact AC/DC board mount power module 3W 5V"/>
+      <property name="Manufacturer" value="HI-LINK"/>
+      <property name="Part Number" value="HLK-PM01"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Compact AC/DC board mount power module 3W 5V"/>
+      <property name="ki_keywords" value="AC/DC module power supply"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffdd8368-6090-4de4-a044-0f0af40c6ab3</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NMOS_GSD</value>
+      <footprint>parts:DMN65D8L-7_MOSFET</footprint>
+      <fields>
+        <field name="Manufacturer">Diodes Incorporated</field>
+        <field name="Part Number">DMN65D8L-7</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Diodes Incorporated"/>
+      <property name="Part Number" value="DMN65D8L-7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1042ba9e-9af4-440e-9aca-d1db952140be</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>parts:RESC1607X60N</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">RC0603JR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Part Number" value="RC0603JR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce4aff95-372e-4980-9550-bfea65b5bca3</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>parts:RESC1607X60N</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">RC0603JR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Part Number" value="RC0603JR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68af9b31-f247-43a3-919c-a275620b7bb5</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>parts:RESC1607X60N</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">RC0603JR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Part Number" value="RC0603JR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e475e582-666f-4f30-8150-449b1eb78957</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>parts:RESC1607X60N</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">RC0603JR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Part Number" value="RC0603JR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef9e46ac-b054-4150-84bb-08e13d31de3f</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>S14K350</value>
+      <footprint>parts:VARS_B72214S_15P5X5P6-7P5-2P2_TDK</footprint>
+      <fields>
+        <field name="Manufacturer">TDK</field>
+        <field name="Part Number">B72214S0351K101</field>
+      </fields>
+      <libsource lib="Device" part="Varistor" description="Voltage dependent resistor"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="Part Number" value="B72214S0351K101"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Voltage dependent resistor"/>
+      <property name="ki_keywords" value="VDR resistance"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc7bb8ed-d054-418c-aa3e-94a972a98774</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>TS-1187A-B-A-B</value>
+      <footprint>SW_TS-1187A-B-A-B</footprint>
+      <fields>
+        <field name="Manufacturer">XKB Industrial Precision</field>
+        <field name="Part Number">TS-1187A-B-A-B</field>
+      </fields>
+      <libsource lib="PARTS" part="TS-1187A-B-A-B" description=""/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="XKB Industrial Precision"/>
+      <property name="Part Number" value="TS-1187A-B-A-B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e94d0f32-4f95-42c7-8244-133fb1e4ac5a</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_SPDT</value>
+      <footprint>parts:SW_JS102011SAQN</footprint>
+      <fields>
+        <field name="Manufacturer">C&amp;K</field>
+        <field name="Part Number">JS102011SAQN</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="C&amp;K"/>
+      <property name="Part Number" value="JS102011SAQN"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcd10c86-8a7e-4880-82aa-ce88ed0b47dc</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AP2112K-3.3TRG1</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP2112.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Diodes Incorporated</field>
+        <field name="Part Number">AP2112K-3.3TRG1</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AP2112K-3.3" description="600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"/>
+      <property name="Manufacturer" value="Diodes Incorporated"/>
+      <property name="Part Number" value="AP2112K-3.3TRG1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72fe2617-29c2-4a4a-9014-d06529ec7802</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ESP32-C3-MINI-1U-H4</value>
+      <footprint>parts:XCVR_ESP32-C3-MINI-1U-N4</footprint>
+      <fields>
+        <field name="Manufacturer">Espressif Systems</field>
+        <field name="Part Number">ESP32-C3-MINI-1U-H4</field>
+      </fields>
+      <libsource lib="Interesting Parts" part="ESP32-C3-MINI-1U-N4" description=""/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="Espressif Systems"/>
+      <property name="Part Number" value="ESP32-C3-MINI-1U-H4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d0476d3-9689-4501-b4f8-bc31fe7098bc</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>32K768</value>
+      <footprint>parts:XTAL_FC-135R_32.7680KA-AG0</footprint>
+      <fields>
+        <field name="Manufacturer">EPSON</field>
+        <field name="Part Number">FC-135R 32.7680KA-AG0</field>
+      </fields>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="_Checked" value=""/>
+      <property name="Manufacturer" value="EPSON"/>
+      <property name="Part Number" value="FC-135R 32.7680KA-AG0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Smartify_pump.kicad_sch"/>
+      <property name="ki_description" value="Two pin crystal"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03ec9b50-6d5c-4afe-906f-adb39aaf5a24</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Converter_ACDC" part="HLK-PM01">
+      <description>Compact AC/DC board mount power module 3W 5V</description>
+      <docs>http://www.hlktech.net/product_detail.php?ProId=54</docs>
+      <footprints>
+        <fp>Converter*ACDC*HiLink*HLK?PM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">HLK-PM01</field>
+        <field name="Footprint">Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx</field>
+        <field name="Datasheet">http://www.hlktech.net/product_detail.php?ProId=54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AC/L" type="power_in"/>
+        <pin num="2" name="AC/N" type="power_in"/>
+        <pin num="3" name="-Vout" type="power_out"/>
+        <pin num="4" name="+Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GSD">
+      <description>N-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Varistor">
+      <description>Voltage dependent resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RV_*</fp>
+        <fp>Varistor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">Varistor</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interesting Parts" part="ESP32-C3-MINI-1U-N4">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-C3-MINI-1U-N4</field>
+        <field name="Footprint">XCVR_ESP32-C3-MINI-1U-N4</field>
+        <field name="PARTREV">v1.0</field>
+        <field name="MANUFACTURER">Espressif Systems</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.55mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="3V3" type="power_in"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="IO2" type="bidirectional"/>
+        <pin num="6" name="IO3" type="bidirectional"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="EN" type="input"/>
+        <pin num="9" name="NC" type="no_connect"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="IO0" type="bidirectional"/>
+        <pin num="13" name="IO1" type="bidirectional"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="NC" type="no_connect"/>
+        <pin num="16" name="IO10" type="bidirectional"/>
+        <pin num="17" name="NC" type="no_connect"/>
+        <pin num="18" name="IO4" type="bidirectional"/>
+        <pin num="19" name="IO5" type="bidirectional"/>
+        <pin num="20" name="IO6" type="bidirectional"/>
+        <pin num="21" name="IO7" type="bidirectional"/>
+        <pin num="22" name="IO8" type="bidirectional"/>
+        <pin num="23" name="IO9" type="bidirectional"/>
+        <pin num="24" name="NC" type="no_connect"/>
+        <pin num="25" name="NC" type="no_connect"/>
+        <pin num="26" name="IO18" type="bidirectional"/>
+        <pin num="27" name="IO19" type="bidirectional"/>
+        <pin num="28" name="NC" type="no_connect"/>
+        <pin num="29" name="NC" type="no_connect"/>
+        <pin num="30" name="RXD0" type="bidirectional"/>
+        <pin num="31" name="TXD0" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="NC" type="no_connect"/>
+        <pin num="34" name="NC" type="no_connect"/>
+        <pin num="35" name="NC" type="no_connect"/>
+        <pin num="36" name="GND" type="power_in"/>
+        <pin num="37" name="GND" type="power_in"/>
+        <pin num="38" name="GND" type="power_in"/>
+        <pin num="39" name="GND" type="power_in"/>
+        <pin num="40" name="GND" type="power_in"/>
+        <pin num="41" name="GND" type="power_in"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="GND" type="power_in"/>
+        <pin num="45" name="GND" type="power_in"/>
+        <pin num="46" name="GND" type="power_in"/>
+        <pin num="47" name="GND" type="power_in"/>
+        <pin num="48" name="GND" type="power_in"/>
+        <pin num="49_1" name="GND" type="power_in"/>
+        <pin num="49_2" name="GND" type="power_in"/>
+        <pin num="49_3" name="GND" type="power_in"/>
+        <pin num="49_4" name="GND" type="power_in"/>
+        <pin num="49_5" name="GND" type="power_in"/>
+        <pin num="49_6" name="GND" type="power_in"/>
+        <pin num="49_7" name="GND" type="power_in"/>
+        <pin num="49_8" name="GND" type="power_in"/>
+        <pin num="49_9" name="GND" type="power_in"/>
+        <pin num="50" name="GND" type="power_in"/>
+        <pin num="51" name="GND" type="power_in"/>
+        <pin num="52" name="GND" type="power_in"/>
+        <pin num="53" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="PARTS" part="TB002-500-03BE">
+      <description>2~24 Poles, Screw Type, Horizontal, 5.0 Pitch, 22~12 (AWG), Terminal Block Connector</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TB002-500-03BE</field>
+        <field name="Footprint">CUI_TB002-500-03BE</field>
+        <field name="MF">CUI Devices</field>
+        <field name="MP">TB002-500-03BE</field>
+        <field name="Description">2~24 Poles, Screw Type, Horizontal, 5.0 Pitch, 22~12 (AWG), Terminal Block Connector</field>
+        <field name="MANUFACTURER">CUI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PARTS" part="TS-1187A-B-A-B">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">TS-1187A-B-A-B</field>
+        <field name="Footprint">SW_TS-1187A-B-A-B</field>
+        <field name="MANUFACTURER">XKB Industrial Precision</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.5mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A0</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="B" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+        <pin num="D" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AP2112K-3.3">
+      <description>600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AP2112.pdf</docs>
+      <footprints>
+        <fp>SOT?23?5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2112K-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP2112.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Relay" part="G5LE-1">
+      <description>Omron G5LE relay, Miniature Single Pole, SPDT, 10A</description>
+      <docs>http://www.omron.com/ecb/products/pdf/en-g5le.pdf</docs>
+      <footprints>
+        <fp>Relay*SPDT*Omron*G5LE?1*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">G5LE-1</field>
+        <field name="Footprint">Relay_THT:Relay_SPDT_Omron-G5LE-1</field>
+        <field name="Datasheet">http://www.omron.com/ecb/products/pdf/en-g5le.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Converter_ACDC">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Converter_ACDC.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Interesting Parts">
+      <uri>C:\Users\kadhe\OneDrive\Desktop\Electronics Work\Electronics Design\Work\Smartify_pump\Smartify_pump/library/Interesting Parts.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="PARTS">
+      <uri>C:/Users/kadhe/Downloads/TS-1187A-B-A-B (1)/PARTS.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Relay">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Relay.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U3" pin="3" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K1" pin="5" pintype="passive"/>
+      <node ref="PS101" pin="4" pinfunction="+Vout" pintype="power_out"/>
+      <node ref="U2" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="3" name="/32K_IN">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="IO0" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/32K_OUT">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="IO1" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/AC_IN_L">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="PS101" pin="1" pinfunction="AC/L" pintype="power_in"/>
+      <node ref="RV1" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/AC_IN_N">
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PS101" pin="2" pinfunction="AC/N" pintype="power_in"/>
+      <node ref="RV1" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/AC_ON">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/AC_OUT_L">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="K1" pin="4" pintype="passive"/>
+    </net>
+    <net code="9" name="/EN">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="C" pintype="passive"/>
+      <node ref="SW1" pin="D" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="10" name="/IO2">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/IO7">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="IO7" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/IO8">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="IO8" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/IO9">
+      <node ref="SW2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="IO9" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/IO10">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="IO10" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/IO18">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="26" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/IO19">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/RXD0">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="30" pinfunction="RXD0" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/TXD0">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U3" pin="31" pinfunction="TXD0" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="GND">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="PS101" pin="3" pinfunction="-Vout" pintype="power_out"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="SW1" pin="A" pintype="passive"/>
+      <node ref="SW1" pin="B" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="14" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="36" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="37" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="38" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="39" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="40" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="41" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="42" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="43" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="44" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="45" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="46" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="47" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="48" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="49_9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="50" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="51" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="52" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="53" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="20" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="21" name="unconnected-(K1-Pad3)">
+      <node ref="K1" pin="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(SW2-A-Pad1)">
+      <node ref="SW2" pin="1" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(U2-NC-Pad4)">
+      <node ref="U2" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(U3-IO3-Pad6)">
+      <node ref="U3" pin="6" pinfunction="IO3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(U3-IO4-Pad18)">
+      <node ref="U3" pin="18" pinfunction="IO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U3-IO5-Pad19)">
+      <node ref="U3" pin="19" pinfunction="IO5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U3-IO6-Pad20)">
+      <node ref="U3" pin="20" pinfunction="IO6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U3-NC-Pad4)">
+      <node ref="U3" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U3-NC-Pad7)">
+      <node ref="U3" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U3-NC-Pad9)">
+      <node ref="U3" pin="9" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U3-NC-Pad10)">
+      <node ref="U3" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U3-NC-Pad15)">
+      <node ref="U3" pin="15" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U3-NC-Pad17)">
+      <node ref="U3" pin="17" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U3-NC-Pad24)">
+      <node ref="U3" pin="24" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U3-NC-Pad25)">
+      <node ref="U3" pin="25" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U3-NC-Pad28)">
+      <node ref="U3" pin="28" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U3-NC-Pad29)">
+      <node ref="U3" pin="29" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U3-NC-Pad32)">
+      <node ref="U3" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U3-NC-Pad33)">
+      <node ref="U3" pin="33" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U3-NC-Pad34)">
+      <node ref="U3" pin="34" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U3-NC-Pad35)">
+      <node ref="U3" pin="35" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

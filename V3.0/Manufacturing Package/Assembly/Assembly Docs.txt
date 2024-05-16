@@ -1,0 +1,3 @@
+- Component Positions File (Pick and Place/Centroid)
+- Assembly Drawing
+- 3D PCB Model file (STEP)
